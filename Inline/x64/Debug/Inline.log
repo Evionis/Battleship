@@ -1,0 +1,106 @@
+﻿  code.cpp
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(56,17): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(57,21): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(57,25): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(57,25): error C2065: 'eax': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(58,21): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(58,21): error C2065: 'cmp': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(58,25): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(58,25): error C2065: 'eax': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(59,21): error C2146: syntax error: missing ';' before identifier 'JB'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(59,21): error C2065: 'JB': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(59,24): error C2146: syntax error: missing ';' before identifier 'Done1'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(59,24): error C2065: 'Done1': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(60,21): error C2146: syntax error: missing ';' before identifier 'movsx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(60,21): error C2065: 'movsx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(60,27): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(60,27): error C2065: 'eax': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(61,21): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(61,21): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(61,25): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(61,25): error C2065: 'ebx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(62,21): error C2146: syntax error: missing ';' before identifier 'mul'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(62,21): error C2065: 'mul': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(62,25): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(62,25): error C2065: 'ebx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(63,21): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(63,21): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(63,25): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(63,25): error C2065: 'edx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(64,21): error C2146: syntax error: missing ';' before identifier 'movsx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(64,21): error C2065: 'movsx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(64,27): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(64,27): error C2065: 'ecx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(65,21): error C2146: syntax error: missing ';' before identifier 'L1'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(66,25): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(66,42): error C2065: 'eax': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(66,48): error C2065: 'edx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(67,25): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(67,25): error C2065: 'add': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(67,29): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(67,29): error C2065: 'eax': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(68,25): error C2146: syntax error: missing ';' before identifier 'loop'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(68,25): error C2065: 'loop': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(68,30): error C2146: syntax error: missing ';' before identifier 'L1'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(68,30): error C2065: 'L1': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(69,21): error C2146: syntax error: missing ';' before identifier 'Done1'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(70,17): error C2059: syntax error: '}'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(78,17): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(79,21): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(79,25): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(79,25): error C2065: 'eax': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(80,21): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(80,21): error C2065: 'add': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(80,25): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(80,25): error C2065: 'eax': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(81,21): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(81,21): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(81,25): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(81,25): error C2065: 'ebx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(82,25): error C2065: 'edx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(82,30): error C2065: 'edx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(83,21): error C2146: syntax error: missing ';' before identifier 'div'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(83,25): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(83,21): warning C4551: function call missing argument list
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(83,25): error C2065: 'ebx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(84,21): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(84,21): error C2065: 'cmp': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(84,25): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(84,25): error C2065: 'edx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(85,21): error C2146: syntax error: missing ';' before identifier 'JE'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(85,21): error C2065: 'JE': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(85,24): error C2146: syntax error: missing ';' before identifier 'Done2'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(85,24): error C2065: 'Done2': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(86,21): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(86,21): error C2065: 'cmp': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(86,25): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(86,25): error C2065: 'edx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(87,21): error C2146: syntax error: missing ';' before identifier 'JE'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(87,21): error C2065: 'JE': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(87,24): error C2146: syntax error: missing ';' before identifier 'Done2'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(87,24): error C2065: 'Done2': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(88,21): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(88,21): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(88,25): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(88,25): error C2065: 'eax': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(89,21): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(89,21): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(89,25): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(89,25): error C2065: 'ebx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(90,21): error C2146: syntax error: missing ';' before identifier 'mul'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(90,21): error C2065: 'mul': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(90,25): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(90,25): error C2065: 'ebx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(91,21): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(91,21): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(91,25): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(91,25): error C2065: 'edx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(92,21): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(92,21): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(92,25): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(92,25): error C2065: 'ecx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(93,21): error C2146: syntax error: missing ';' before identifier 'L2'
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(94,25): error C2065: 'mov': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(94,41): error C2065: 'eax': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(94,47): error C2065: 'edx': undeclared identifier
+C:\Users\NoahT\source\repos\Inline\Inline\code.cpp(95,25): fatal error C1003: error count exceeds 100; stopping compilation
